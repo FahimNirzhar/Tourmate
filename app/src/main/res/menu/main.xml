@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/setting"
+        android:showAsAction="always"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:title="Log Out"/>
+
+</menu>
